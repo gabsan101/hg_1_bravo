@@ -7,3 +7,4 @@
 |**Charlie**| Umberto Urruchurtu| [Cangry13](https://github.com/Cangry13)
 |**Delta**|Jesus Urdaneta	 |   [CafinaGH](https://github.com/CafinaGH)  
 |**Echo**|Luis Palacios|  [lPalacios1410](https://github.com/lpalacios1410) 
+
